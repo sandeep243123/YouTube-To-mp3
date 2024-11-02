@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Additional reset for body and html */
+body, html {
+  margin: 0;
+  padding: 0;
+  background-color:#263038
+}
